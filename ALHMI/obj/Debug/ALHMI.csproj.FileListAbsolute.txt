@@ -1,0 +1,13 @@
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.Form1.resources
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.Properties.Resources.resources
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.csproj.GenerateResource.Cache
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.exe
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.pdb
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\bin\Debug\ALHMI.exe.config
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\bin\Debug\ALHMI.exe.manifest
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\bin\Debug\ALHMI.application
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\bin\Debug\ALHMI.exe
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\bin\Debug\ALHMI.pdb
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.exe.manifest
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.application
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\ALHMI\ALHMI\obj\Debug\ALHMI.csprojResolveAssemblyReference.cache
